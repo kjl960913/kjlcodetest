@@ -1,0 +1,5 @@
+name----address----dateofbirth----creditstatus
+kjl----bupt----1996&&09&&13----true
+nngy----hujj----1996&&08&&01----true
+kkk----kkk----1996&&08&&01----true
+abc----abc----1996&&08&&01----true

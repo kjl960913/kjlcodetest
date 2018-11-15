@@ -1,0 +1,12 @@
+kjl----ID----PIN----balance----overdraft----unclearfunds
+kjl----123----123----0----0----0
+kjl----aaa----aaa----0----0----0
+kjl----jjj----jjj----0----0----0
+kjl----kjk----hhh----0----0----0
+kjl----nn----hhh----0----0----0
+kjl----hhh----njj----0----0----0
+kjl----qaz----qaz----0----0----0
+kjl----qqa----qqa----0----0----0
+kjl----aaaq----aaaq----5357----0----0
+kkk----klnmm----oiii----0----0----0
+kkk----nkhgs----ddee----0----0----0

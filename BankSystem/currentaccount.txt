@@ -1,0 +1,4 @@
+kjl----ID----PIN----balance----overdraft----unclearfunds
+kjl----123----123----0----500----0
+kjl----qaz----qaz----5666----500----447
+kjl----qwe----qwe----44----500----300
